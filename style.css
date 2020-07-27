@@ -1,4 +1,5 @@
 
+
 body {
     background-color: rgb(192, 192, 192);
 }
@@ -73,4 +74,25 @@ body {
   }
 
 
+#Nick{
+    padding-left: 275px;
+}
+.NickPhoto{
+    width: 600px;
+    text-align: center;
+}
+.NickBio{
+    background-color: #92CFF8;
+    font-size: 20px;
+    width: 600px;
+}
+#nickMotto{
+    padding-left: 200px;
+    font-family: "US Declaration", "Script", "Times New Roman";
+}
+.sWEgg{
+    text-align: center;
+    width:600px;
+    font-family: "US Declaration", "Script", "Times New Roman";
+}
 
