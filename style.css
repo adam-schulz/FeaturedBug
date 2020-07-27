@@ -1,3 +1,10 @@
+
+body {
+    background-color: rgb(192, 192, 192);
+}
+.title {
+    text-align: center;
+
 #Nick{
     padding-left: 275px;
 }
